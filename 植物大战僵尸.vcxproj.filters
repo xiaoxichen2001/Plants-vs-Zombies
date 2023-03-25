@@ -21,9 +21,15 @@
     <ClCompile Include="tools.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="vector2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vector2.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
